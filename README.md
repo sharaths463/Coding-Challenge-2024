@@ -14,6 +14,8 @@ Please follow the documentation for Deployment Steps for setting up connections,
 
 - Solutions are available in path (Managed/Unmanaged)([Solutions](./Solutions/))
 
+Note: Recommended to import managed solution
+
 ## Process Documentations
 
 - Operations Colleague Process Documentation ([TFL Operations Colleague Process Documentation](./Documents/TFL%20Operations%20Colleague%20Observation%20Process.docx)).

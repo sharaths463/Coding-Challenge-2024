@@ -14,15 +14,15 @@ Please follow the documentation for Deployment Steps for setting up connections,
 
 - Solutions are available in path (Managed/Unmanaged)([Solutions](./Solutions/))
 
-### Process Documentations
+## Process Documentations
 
 - Operations Colleague Process Documentation ([TFL Operations Colleague Process Documentation](./Documents/TFL%20Operations%20Colleague%20Observation%20Process.docx)).
 - Operations Manager Process Documentation ([TFL Operations Manager Process Documentation](./Documents/TFL%20Operations%20Manager%20Process.docx)).
 
-### Overlay Plugin Source Code
+## Overlay Plugin Source Code
 
 - Source Code Solution ([TFL.Source](./Source/TFL.Plugins/))
 
-### Design Documentation
+## Design Documentation
 
 [Design Documentation](./Documents/Design%20Documentation.docx)
